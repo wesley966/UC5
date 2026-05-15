@@ -61,45 +61,45 @@ I am working now _> I am not working now-> Am I working now?
 Form sentences in: Simple Present -> Present Continuous -> Question Present Continuous
 
 
-run -> We run -> We are running -> Are we running?
+run -> We run -> We are running -> Are we running? -> We ran
 
-swim -> I swim -> I am swimming -> Am I swimming?
+swim -> I swim -> I am swimming -> Am I swimming? -> I swimmed 
 
-sit -> He sits -> He is sitting -> Is he sitting?
+sit -> He sits -> He is sitting -> Is he sitting? -> He sitted
 
-stop -> They stop -> They are stopping -> Are they stopping?
+stop -> They stop -> They are stopping -> Are they stopping? -> They stopped
 
-plan -> He plans -> He is planning -> Is he planninng?
+plan -> He plans -> He is planning -> Is he planninng? -> He planned
 
-travel -> It travels -> It is travelling -> Is it travelling?
+travel -> It travels -> It is travelling -> Is it travelling? -> It traveled
 
-dance -> I dance -> I am dancing -> Am I dancing?
+dance -> I dance -> I am dancing -> Am I dancing? -> I danced
 
-write -> She writes -> She is writing -> Is she writing?
+write -> She writes -> She is writing -> Is she writing? -> She writed
 
-make -> He makes -> He is making -> Is he making?
+make -> He makes -> He is making -> Is he making? He made
 
-drive -> It drives -> It is driving -> Is it driving?
+drive -> It drives -> It is driving -> Is it driving? -> It drived
 
-come -> He comes -> He is coming -> Is he coming?
+come -> He comes -> He is coming -> Is he coming? -> He came
 
-take -> We take -> We are taking -> Are we taking?
+take -> We take -> We are taking -> Are we taking? -> We took
 
-move -> I move -> I am moving -> Am I moving?
+move -> I move -> I am moving -> Am I moving? -> I moved
 
-lie -> She lies -> She is lying -> Is she lying?
+lie -> She lies -> She is lying -> Is she lying? -> She lied
 
-get -> I get -> I am getting -> Am I getting?
+get -> I get -> I am getting -> Am I getting? -> I got
 
-shop -> They shop -> They are shopping -> Are they shopping?
+shop -> They shop -> They are shopping -> Are they shopping? -> They shopped
 
-begin -> He begins -> He is beginning -> Is he beginning?
+begin -> He begins -> He is beginning -> Is he beginning? -> He begined
 
-forgot -> I forgot -> I am fortgotting -> Am I forgotting?
+forgot -> I forgot -> I am fortgotting -> Am I forgotting? -> I forgeted
 
-use -> She uses -> She is using -. Is she using?
+use -> She uses -> She is using -. Is she using? -> She used
 
-live -> They live -> They are living -> Are they living?
+live -> They live -> They are living -> Are they living? -> They lived
 
 
 
