@@ -1,7 +1,6 @@
-   const readline = require('readline-sync');
+import readline from 'readline-sync'
    
-   function DadosDojogo(){
-   const sentences = [
+  export const Sentences = [
         {
             portugues: "Simple Past -> Nós usamos O aparelho antes de dormir.",
             ingles: "We used the device before sleeping.",
@@ -68,5 +67,4 @@
         let acertos = 0;
         let erros = 0;
 
-}
-module.exports = DadosDojogo;
+
