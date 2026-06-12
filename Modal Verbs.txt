@@ -1,0 +1,14 @@
+Modal Verbs
+
+Perguntas de Interpretação
+1.O que os desenvolvedores precisam corrigir?
+Security problems before deployment.
+
+2.Por que o banco de dados deve ser otimizado?
+Because the system is slow.
+
+3.O que poderia ser melhorado?
+The interface, to help users navigate more easily.
+
+4.O que precisa ser incluído na documentação?
+installation instructions ans API examples.
